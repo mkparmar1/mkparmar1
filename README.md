@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkparmar1&label=Profile%20views&color=0e75b6&style=flat" alt="mkparmar1" /> </p>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Nest.js and ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://mkparmar1.github.io/Personal_Portfolio_Website/](https://mkparmar1.github.io/Personal_Portfolio_Website/)
 
