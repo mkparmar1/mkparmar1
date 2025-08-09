@@ -8,7 +8,9 @@
 - 👨‍💻 All of my projects are available at 
 
 https://ai-discovery-boards.vercel.app
+
 https://next-anonymous-video-chat-app.vercel.app
+
 https://mkparmar1.github.io/Personal_Portfolio_Website
                                           
 
