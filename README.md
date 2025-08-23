@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-https://ai-discovery-boards.vercel.app
+https://www.aidiscoveryboards.info
 
 https://next-anonymous-video-chat-app.vercel.app
 
