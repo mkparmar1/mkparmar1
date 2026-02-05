@@ -9,6 +9,8 @@
 
 https://www.aidiscoveryboards.info
 
+https://chemix-lab.vercel.app
+
 https://next-anonymous-video-chat-app.vercel.app
 
 https://mkparmar1.github.io/Personal_Portfolio_Website
