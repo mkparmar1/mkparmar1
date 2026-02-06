@@ -9,6 +9,8 @@
 
 https://www.aidiscoveryboards.info
 
+https://risk-lens-lyart.vercel.app
+
 https://chemix-lab.vercel.app
 
 https://next-anonymous-video-chat-app.vercel.app
